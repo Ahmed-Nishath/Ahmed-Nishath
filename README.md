@@ -1,13 +1,7 @@
 # 👋 Hello, I'm Ahmed Nishath!
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
-
 ## 🚀 About Me
 I'm a passionate **Computer Science Educator** and **Developer** dedicated to teaching programming concepts and building innovative solutions. I enjoy sharing knowledge and creating projects that address real-world challenges.
-
-- 🌟 **Current Role**: Demonstrator/Assistant Lecturer in Computer Science
-- 💻 **Teaching Expertise**: Java Programming, Database Management Systems, Artificial Intelligence, and Parallel Programming
-- 🎓 **Previous Experience**: Internship at **EvonSys**
 
 ---
 
@@ -28,14 +22,6 @@ I'm a passionate **Computer Science Educator** and **Developer** dedicated to te
 
 ---
 
-## 🧑‍🏫 Teaching & Mentorship
-I specialize in:
-- Designing and delivering engaging content for undergraduates
-- Assisting students with complex topics like AI and parallel programming
-- Fostering a collaborative and innovative learning environment
-
----
-
 ## 🛠️ Projects
 Here are some of my notable repositories:
 
@@ -48,9 +34,9 @@ Here are some of my notable repositories:
 ---
 
 ## 🌐 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-nishath)
-- 🌐 [Portfolio](https://ahmed-nishath.github.io) *(if applicable)*
-- 📧 Email: ahmed.nishath@example.com *(replace with your actual email)*
+- 💼 [LinkedIn](http://linkedin.com/in/ahmed-nishath)
+- 🌐 [Portfolio](https://github.com/Ahmed-Nishath)
+- 📧 Email: amnishath@gmail.com
 
 ---
 
@@ -61,4 +47,4 @@ Here are some of my notable repositories:
 
 ---
 
-Thank you for visiting my profile! 😊 Feel free to explore my repositories and connect with me for collaborations or discussions.
+Thank you for visiting my profile!
